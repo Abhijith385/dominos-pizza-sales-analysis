@@ -1,0 +1,15 @@
+﻿product_id,product_category,product_name,size,unit_price
+1,Veg Pizza,Margherita,Medium,239
+2,Veg Pizza,Margherita,Large,449
+3,Veg Pizza,Farmhouse,Medium,459
+4,Veg Pizza,Farmhouse,Large,689
+5,Veg Pizza,Peppy Paneer,Medium,459
+6,Non-Veg Pizza,Pepper Barbecue Chicken,Medium,449
+7,Non-Veg Pizza,Pepper Barbecue Chicken,Large,669
+8,Non-Veg Pizza,Chicken Dominator,Medium,599
+9,Non-Veg Pizza,Chicken Dominator,Large,839
+10,Sides,Garlic Breadsticks,Regular,109
+11,Sides,Stuffed Garlic Bread,Regular,159
+12,Beverages,Coke,500ml,60
+13,Beverages,Sprite,500ml,60
+14,Desserts,Choco Lava Cake,Regular,109
